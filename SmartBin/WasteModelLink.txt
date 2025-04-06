@@ -1,0 +1,6 @@
+official model repo name: manuelamc14/waste-classification-model
+
+Steps:
+the only thing need from the repo is the "final_model_weights.hdf5"
+and i have renamed it as "WasteClassificationModelWeights.hdf5"
+and using in my smartBinBackend.py I was unable to upload it directly 
